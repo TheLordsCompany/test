@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.83741336.css",
+    "main.js": "/static/js/main.fd0926a0.js",
+    "static/media/Icon FB.svg": "/static/media/Icon FB.8ae24509b4ff4301f97b8796d06e93e5.svg",
+    "index.html": "/index.html",
+    "main.83741336.css.map": "/static/css/main.83741336.css.map",
+    "main.fd0926a0.js.map": "/static/js/main.fd0926a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83741336.css",
+    "static/js/main.fd0926a0.js"
+  ]
+}
